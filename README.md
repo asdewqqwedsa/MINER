@@ -1,4 +1,3 @@
-# Goldshellminer-cli
 
 ### Introduction
 
