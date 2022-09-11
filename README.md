@@ -25,15 +25,7 @@ Config `./config.json` to set your pool.
 {
   "loglevel": -1,
   "miners": [
-    {
-      "cryptoname": "hns",
-      "minername": ["Goldshell-HS1", "Goldshell-HS1-Plus"],
-      "pool": {
-        "host": "hns.ss.dxpool.com",
-        "port": 3008,
-        "user": "user.name",
-        "pass": "x"
-      }
+ 
     },
     {
       "cryptoname": "lbc",
