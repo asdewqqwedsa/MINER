@@ -26,7 +26,7 @@ Config `./config.json` to set your pool.
   "loglevel": -1,
   "miners": [
  
-    },
+    
     {
       "cryptoname": "lbc",
       "minername": ["Goldshell-LB1"],
